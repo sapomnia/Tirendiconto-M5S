@@ -1,6 +1,6 @@
 # Tirendiconto-M5S
 
-Il codice utilizzato per scrapare i dati utilizzati per [questo articolo](https://goo.gl/NWc1XW) su Wired.it
+Il codice è stato utilizzato per scrapare i dati utilizzati per [questo articolo](https://goo.gl/NWc1XW) su Wired.it
 
 Non sono io l'autore del codice. Visto l'argomento, mi è sembrato però interessante renderlo liberamente scaricabile ed utilizzabile. Ovviamente chi lo ha scritto mi ha autorizzato.
 
